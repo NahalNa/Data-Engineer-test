@@ -1,4 +1,3 @@
-## README
 # Overview
 This script enriches an order dataset with historical stock context. Specifically, for each order in the order_details.csv file, it determines the most recent known stock level of the corresponding product from the product_stock_levels.csv file, at or before the time the order was placed.
 The result is a new dataset enriched_orders.csv which retains the original order details and includes an additional column: stock_level_at_order_time.
