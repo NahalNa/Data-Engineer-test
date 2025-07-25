@@ -1,0 +1,5 @@
+order_id,product_id,quantity,customer_id,order_timestamp
+ORD-001,P-101,2,C-01,7/18/2025 10:30
+ORD-002,P-102,1,C-02,7/18/2025 10:35
+ORD-003,P-101,,C-03,7/18/2025 10:41
+ORD-004,P-103,3,C-01,7/18/2025 11:05
